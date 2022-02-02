@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Goma",
+    "price": 12.54,
+    "thumbnail": "https://cdn3.iconfinder.com",
+    "id": 1
+  },
+  {
+    "title": "Lapiz",
+    "price": 12.54,
+    "thumbnail": "https://cdn3.iconfinder.com",
+    "id": 2
+  },
+  {
+    "title": "Sacapuntas",
+    "price": 12.54,
+    "thumbnail": "https://cdn3.iconfinder.com",
+    "id": 3
+  },
+  {
+    "title": "cachiporra",
+    "price": 12.54,
+    "thumbnail": "https://cdn3.iconfinder.com",
+    "id": 4
+  },
+  {
+    "title": "mortadela",
+    "price": 12.54,
+    "thumbnail": "https://cdn3.iconfinder.com",
+    "id": 5
+  }
+]
