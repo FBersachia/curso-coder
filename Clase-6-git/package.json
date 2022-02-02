@@ -1,0 +1,24 @@
+{
+  "name": "clase-6-servidores-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBersachia/curso-coder.git"
+  },
+  "author": "Francisco Bersachia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBersachia/curso-coder/issues"
+  },
+  "homepage": "https://github.com/FBersachia/curso-coder#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
